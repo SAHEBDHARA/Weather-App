@@ -5,7 +5,7 @@
 
  // get api key 
   
- const API_Key = "6ea21c7869ab90edf510348695ea24ad";
+ const API_Key = "paste your api";
 
 
  
